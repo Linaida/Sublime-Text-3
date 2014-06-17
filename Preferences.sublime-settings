@@ -1,0 +1,8 @@
+{
+	"color_scheme": "Packages/User/Nexus (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Nexus.sublime-theme"
+}

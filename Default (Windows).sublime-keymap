@@ -1,0 +1,8 @@
+[
+	{ "keys": ["ctrl+shift+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	 { "keys": ["ctrl+alt+l"], "command": "sublimelinter", "args": {"action": "lint"} },
+    { "keys": ["ctrl+alt+e"], "command": "find_next_lint_error" },
+    { "keys": ["ctrl+alt+shift+e"], "command": "find_previous_lint_error" },
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+    { "keys": ["ctrl+alt+n"], "command": "new_folder" }
+]
